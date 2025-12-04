@@ -31,7 +31,7 @@ DR4
     <a href="DR4.html#UpdatedLensMag">Updated lensing magnifications</a>
     <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...982...51P/abstract">Price et al. 2025</a>, 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4568F/abstract">Furtak et al. 2023</a>, 
-    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>,
+    <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..101S/abstract">Suess et al. 2024</a>,
     & <a href="https://ui.adsabs.harvard.edu/abs/2024ApJS..270....7W/abstract">Weaver et al. 2024</a>, 
     August 7, 2024)</div>
 </h4>
@@ -104,7 +104,7 @@ DR2
 
 <h4 class="minor bigger">
     <a href="DR2.html#DUALZ">DUALZ Survey: ALMA Catalogs and Maps in Abell 2744</a>
-    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230907834F/abstract">Fujimoto et al. 2023</a>, v1.0, September 14, 2023)</div>
+    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2025ApJS..278...45F/abstract">Fujimoto et al. 2025</a>, v1.0, September 14, 2023)</div>
 </h4>
 
 
