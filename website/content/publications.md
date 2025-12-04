@@ -4,7 +4,7 @@ draft = false
 headless = true
 +++
 
-1. [The *JWST* UNCOVER Treasury survey: Ultradeep NIRSpec and NIRCam ObserVations before the Epoch of Reionization]([https://ui.adsabs.harvard.edu/abs/2022arXiv221204026B/abstract](https://ui.adsabs.harvard.edu/abs/2024ApJ...974...92B/abstract))
+1. [The *JWST* UNCOVER Treasury survey: Ultradeep NIRSpec and NIRCam ObserVations before the Epoch of Reionization](https://ui.adsabs.harvard.edu/abs/2024ApJ...974...92B/abstract)
     - Bezanson, R., Labbe, I., Whitaker, K. E., et al.,
         2024, ApJ 974 92
 
