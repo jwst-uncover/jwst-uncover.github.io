@@ -6,18 +6,11 @@ headless = true
 <!-- <span class="image main"><img src="../images/field_layout.png" alt="" /></span> -->
          
 
-<!-- Medium Bands: Mega Science (MegaScience) is a JWST Cycle 2 survey that will obtain deep NIRCam medium band imaging of the Frontier Field Abell 2744.  -->
-
 **UNCOVERed** is a JWST Cycle 5 public survey that will obtain deep MIRI multiband imaging from 5-18&mu;m of the Frontier Field Abell 2744, building on existing imaging from Cycle 1 Treasury Program UNCOVER and Cycle 2 Program MegaScience.
 
+With the strong lensing boost, wide area, and deep and dense photometric coverage (7 bands of MIRI imaging added by this program, augmented by 20 bands of NIRCam and HST UV coverage, as well as ALMA dust continuum, MUSE, and Chandra Xray observations), UNCOVERed will be uniquely positioned to improve our understanding of dust obscuration in distant galaxies in black holes. 
 
-_MORE DETAILS TO FILL OUT_
-
-
-<!-- 
-Thanks to the strong lensing boost, deep observations, and dense photometric coverage (20 bands!), MegaScience will be uniquely positioned to (1) improve our understanding of the redshifts and stellar population properties of distant galaxies, and (2) map strong emission features across a wide redshift range from the cluster itself through the epoch of reionization. 
-
-These data will allow us to understand where stars form within galaxies, the incidence and distribution of star-forming clumps, spatial variations in dust, and perform a wide range of ancillary science from identification and characterization of AGN through modeling NIRSpec slit losses. -->
+UNCOVERed will: (1) probe the mass-dependent impact of AGN feedback, by  disentangling dust-obscured AGN from MIR star-formation signatures, and (2) improve our understanding of stellar populations and stellar masses at z>4. UNCOVERed will cement the legacy of A2744 as the community deep public Frontier Field, by, e.g., providing new information about nearby Brown Dwarfs, the nature of dusty quiescent galaxies, and potentially discovering LRDs at z>10.
 
            
 [UNCOVERed official program info](https://www.stsci.edu/jwst/science-execution/program-information.html?id=11373)
