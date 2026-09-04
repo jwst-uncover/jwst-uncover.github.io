@@ -4,7 +4,6 @@ draft = false
 headless = true
 +++
 
-- 
 - **PI [Wren Suess](https://wrensuess.github.io)** (Stanford)
 - Hakim Atek (IAP)
 - **[Rachel Bezanson](https://rachelbezanson.github.io)** (Pitt)

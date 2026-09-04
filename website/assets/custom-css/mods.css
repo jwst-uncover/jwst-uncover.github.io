@@ -7,37 +7,10 @@
   }
 
 
-
-a {
-    border-bottom: solid 1px rgba(255, 255, 255, 1);
-}
-
-    a:hover {
-        border-bottom-style: dotted; 
-        border-bottom-color: inherit; 
-    }
-
-
 #bg:after {
-    /* background-image: url("../images/HFF_abell2744.png"); */
     background-image: url("../../images/UNCOVER_A2744_NWcore.png"); 
 }
 
-/* SHP */
-
-
-
-@media screen and (max-height: 600px) {
-    #wrapper.alt-news {
-        padding-top: 2rem; 
-        padding-bottom: 2rem; 
-    }
-}
-
-#header .logo .image:before {
-    background-image: none;
-    opacity: 0;
-}
 
 /* SHP */
 #header .logo .image.main{
@@ -53,12 +26,32 @@ a {
 }
 
 
+a {
+    border-bottom: solid 1px rgba(255, 255, 255, 1);
+}
+
+    a:hover {
+        border-bottom-style: dotted; 
+        border-bottom-color: inherit; 
+    }
 
 
-/* 
-#header .content {
-    background-color: rgba(27, 31, 34, 0.1);
-} */
+
+
+@media screen and (max-height: 600px) {
+    #wrapper.alt-news {
+        padding-top: 2rem; 
+        padding-bottom: 2rem; 
+    }
+}
+
+#header .logo .image:before {
+    background-image: none;
+    opacity: 0;
+}
+
+
+
 
 #header .content .inner.alt {
     padding-top: 0; 
@@ -433,8 +426,6 @@ input[type="button"], button, .button {
     }
 
 
-
-
 .image.nooverlay:before {
         opacity: 0;
 }
@@ -452,9 +443,18 @@ input[type="button"], button, .button {
     border-bottom-color: var(--link-color);
 }
 
+#header .othersurvey-list {
+    justify-content: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
 
 #header .othersurvey {
     font-size: 1rem; 
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem; 
+    display: inline-block;
 }
 
 #header .othersurvey a {
@@ -464,6 +464,15 @@ input[type="button"], button, .button {
     padding: 1rem 0.75rem 1rem 1rem; 
     border: 1px solid var(--link-color);
     border-radius: 4rem;
+}
+
+
+
+#header .content .othersurvey {
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    line-height: 2;
 }
 
 #header .othersurvey a:hover {

@@ -8,20 +8,18 @@ headless = true
 <header id="header">
 <div class="logo" style="border: none;">
     <span class="image main">
-        <img src="../images/megascience_white.png" alt="" />
+        <img src="../images/uncovered_white.png" alt="" />
     </span>
 </div>
 <div class="content">
     <div class="inner">
-        <h1>JWST Mega Science Survey</h1>
-        <h3>PI Wren Suess</h3>
-        <p>UltraDeep NIRCam 
-        <!-- Medium Band  -->
-        Imaging of All Medium Bands in Abell 2744</p>
+        <h1>JWST UNCOVERED</h1>
+        <h3>PIs Kate Whitaker, Rachel Bezanson, Sedona Price</h3>
+        <p>Deep MIRI Imaging from 5-18<span style="text-transform: lowercase;">&mu;</span>m in Abell 2744</p>
         <ul class="flex-horizontal othersurvey-list">
             <li class="othersurvey">JWST Cycle 1: <a href="/"><img src="../images/UNCOVER_logo_white.png" alt="UNCOVER"/> Survey</a></li>
+            <li class="othersurvey">JWST Cycle 2: <a href="/megascience"><img src="../images/megascience_white.png" alt="MegaScience"/> Survey</a></li>
             <li class="othersurvey">HST Cycle 32: <a href="/mindthegaps"><img src="" alt="MINDTHEGAPS"/> Survey</a></li>
-            <li class="othersurvey">JWST Cycle 5: <a href="/uncovered"><img src="../images/UNCOVERed_white.png" alt="UNCOVERed"/> Survey</a></li>
         </ul>
     </div>
 </div>
@@ -34,7 +32,7 @@ headless = true
         <li><a href="#publications">Publications</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li class="highlight"><a href="/megascience/news">News</a></li>
+        <!-- <li class="highlight"><a href="/uncovered/news">News</a></li> -->
     </ul>
 </nav>
 </header>
