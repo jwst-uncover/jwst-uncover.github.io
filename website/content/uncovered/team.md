@@ -15,8 +15,7 @@ headless = true
 - **Ivo Labbe** (Swinburne)
 - **[Joel Leja](https://www.personal.psu.edu/jql6565/)** (Penn State)
 - **Richard Pan** (Tufts)
-- **[Wren Suess](https://wrensuess.github.io)** (UC-Boulder)
+- **[Wren Suess](https://wrensuess.github.io)** (CU-Boulder)
 - **[Bingjie Wang](https://wangbingjie.github.io)** (Princeton)
 - **[John Weaver](https://astroweaver.github.io)** (UMass-Amherst)
-- **[Kate Whitaker](https://www.astrowhit.com)** (UMass-Amherst)
 - MORE COMING SOON

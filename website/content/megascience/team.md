@@ -4,7 +4,7 @@ draft = false
 headless = true
 +++
 
-- **PI [Wren Suess](https://wrensuess.github.io)** (Stanford)
+- **PI [Wren Suess](https://wrensuess.github.io)** (CU-Boulder)
 - Hakim Atek (IAP)
 - **[Rachel Bezanson](https://rachelbezanson.github.io)** (Pitt)
 - **Gabe Brammer** (DAWN)
@@ -36,7 +36,7 @@ headless = true
 - Erica Nelson (CU-Boulder)
 - Pascal Oesch (Geneva)
 - **Richard Pan** (Tufts)
-- **[Sedona Price](https://sedonaprice.github.io)** (Pitt)
+- **[Sedona Price](https://sedonaprice.github.io)** (STScI)
 - [David Setton](https://davidjsetton.github.io) (Pitt)
 - Renske Smit (Liverpool John Moores)
 - Mauro Stefanon (Leiden)
