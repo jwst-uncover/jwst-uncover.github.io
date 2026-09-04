@@ -13,7 +13,6 @@
 
             <!-- Main content -->
             <div id="main">
-                <!-- {{- block "main" . }}{{- end }} -->
                 <!-- {{ .Content }} -->
 
                 <!-- Intro -->
@@ -32,7 +31,6 @@
                         <h2 class="major">Data releases</h2>
 
                         <h3 class="minor">Acknowledgement</h3>
-                        <!-- <p style="margin-bottom: 3rem"> -->
                         <p>Please cite the survey paper (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..101S/abstract">Suess et al. 2024</a>) 
                             for any publications using MegaScience data products, 
                             as well the other publications noted for specific releases.
@@ -60,16 +58,11 @@
 
                 <!-- Team -->
                     <article id="team" class="plain-links two-column">
-                        <!-- <div id="team-include"></div> -->
                         <div class="flex-horizontal">
                             <h2 class="major">Team</h2>
-                            <!-- <h4><a href="https://sites.google.com/view/jwst-uncover/home">Internal website</a></h4> -->
                         </div>
-                        <!-- <span class="image main"><img src="../images/UNCOVER_map.png" alt="" /></span> -->
-                        <!-- <ul> -->
                         <p style="padding-top: 0rem;"></p>
                         {{ with .Site.GetPage "megascience/team" }}{{ .Content }}{{ end }}
-                        <!-- </ul> -->
 
                         <i>(Survey builders are denoted in <b>bold</b>.)</i>
                     </article>

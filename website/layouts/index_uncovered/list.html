@@ -13,7 +13,6 @@
 
             <!-- Main content -->
             <div id="main">
-                <!-- {{- block "main" . }}{{- end }} -->
                 <!-- {{ .Content }} -->
 
                 <!-- Intro -->
@@ -63,15 +62,13 @@
 
                 <!-- Team -->
                     <article id="team" class="plain-links two-column">
-                        <!-- <div id="team-include"></div> -->
                         <div class="flex-horizontal">
                             <h2 class="major">Team</h2>
                         </div>
                         <p style="padding-top: 0rem;"></p>
                         {{ with .Site.GetPage "uncovered/team" }}{{ .Content }}{{ end }}
-                        <!-- </ul> -->
 
-                        <i>(Survey builders are denoted in <b>bold</b>.)</i>
+                        <!-- <i>(Survey builders are denoted in <b>bold</b>.)</i> -->
                     </article>
 
 
