@@ -8,7 +8,7 @@ headless = true
 <header id="header">
 <div class="logo" style="border: none;">
     <span class="image main">
-        <img src="../images/uncovered_white.png" alt="" />
+        <img src="../images/UNCOVERed_white.png" alt="" />
     </span>
 </div>
 <div class="content">
