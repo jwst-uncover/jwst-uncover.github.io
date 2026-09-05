@@ -5,6 +5,24 @@ headless = true
 +++
 
 
+<h3 class="minor">Acknowledgement</h3>
+<!-- <p style="margin-bottom: 3rem"> -->
+
+Please cite the survey paper (<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221204026B/abstract">Bezanson et al. 2022</a>) 
+for any publications using UNCOVER data products, 
+as well the other publications noted for specific releases.
+
+<b><i>For Data Release 3 and later:</i></b> 
+for all data products 
+that use Medium Band and F070W/F090W observations 
+from the 
+<a href="megascience">
+MegaScience survey</a> (GO-4111; PI:Suess), 
+please also cite the MegaScience survey paper 
+(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>) 
+in any publications using UNCOVER+MegaScience data products. 
+
+
 <!-- 
 DR4
 -->

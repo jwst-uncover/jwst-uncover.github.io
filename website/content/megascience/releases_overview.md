@@ -4,6 +4,20 @@ draft = false
 headless = true
 +++
 
+<h3 class="minor">Acknowledgement</h3>
+<p>Please cite the survey paper (<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>) 
+    for any publications using MegaScience data products, 
+    as well the other publications noted for specific releases.
+</p>
+    
+<p>As the MegaScience catalogs also include broad-band 
+    photometry from the <a href="..">UNCOVER survey</a> 
+    (GO-2561; PIs: Bezanson & Labbe), 
+    please also cite the UNCOVER survey paper 
+    (<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221204026B/abstract">Bezanson et al. 2022</a>)
+    in any publication using the UNCOVER+MegaScience data products. 
+</p>
+
 <!-- 
 DR4
 -->

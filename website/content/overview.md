@@ -4,6 +4,7 @@ draft = false
 headless = true
 +++
 
+<span class="image main"><img src="images/field_layout.png" alt="" /></span>
 
 [UNCOVER official program info](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2561)
 

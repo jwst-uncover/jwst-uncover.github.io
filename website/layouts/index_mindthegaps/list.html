@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head_megascience.html" . -}}
+    {{- partial "head_mindthegaps.html" . -}}
 
       <body class="is-preload">
 
@@ -8,17 +8,18 @@
         <div id="wrapper">
 
             <!-- Header -->
-            {{ with .Site.GetPage "megascience/header" }}{{ .Content }}{{ end }}
+            {{ with .Site.GetPage "mindthegaps/header" }}{{ .Content }}{{ end }}
 
 
             <!-- Main content -->
             <div id="main">
+                <!-- {{ .Content }} -->
 
                 <!-- Intro -->
                 <article id="overview">
                     <h2 class="major">Survey Overview</h2>
-
-                    {{ with .Site.GetPage "megascience/overview" }}{{ .Content }}{{ end }}
+            
+                    {{ with .Site.GetPage "mindthegaps/overview" }}{{ .Content }}{{ end }}
                 </article>
 
 
@@ -26,7 +27,7 @@
                     <article id="releases">
                         <h2 class="major">Data releases</h2>
 
-                        {{ with .Site.GetPage "megascience/releases_overview" }}{{ .Content }}{{ end }}
+                        {{ with .Site.GetPage "mindthegaps/releases_overview" }}{{ .Content }}{{ end }}
                     </article>
 
 
@@ -34,7 +35,7 @@
                     <article id="publications" class="publications">
                         <h2 class="major">Publications</h2>
 
-                        {{ with .Site.GetPage "megascience/publications" }}{{ .Content }}{{ end }}
+                        {{ with .Site.GetPage "mindthegaps/publications" }}{{ .Content }}{{ end }}
 
                     </article>
 
@@ -44,7 +45,8 @@
                             <h2 class="major">Team</h2>
                             <h4><a href="https://sites.google.com/view/jwst-uncover/home">Internal website</a></h4>
                         </div>
-                        {{ with .Site.GetPage "megascience/team" }}{{ .Content }}{{ end }}
+                        {{ with .Site.GetPage "mindthegaps/team" }}{{ .Content }}{{ end }}
+
                     </article>
 
 
@@ -54,8 +56,7 @@
                             <p>Send us an email at jwstuncover - at - gmail.com !</p>
                     </article>
 
-            
-                    
+
             </div>
 
 

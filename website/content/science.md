@@ -4,6 +4,8 @@ draft = false
 headless = true
 +++
 
+<span class="image main"><img src="images/UNCOVER_logo_jwst_background.jpg" alt="" /></span>
+
 51hr primary / 49hr parallel (71 hours with overheads)<br/>
 Deep NIRCam (4-6 hours) / 7 filters 1-5 microns to \~30AB (F115W, F150W, F200W, F227W, F356W, F410M, F444W)<br/>
 Ultradeep NIRSpec/PRISM R\~30-300 from 0.6-5 microns spectroscopy to \~29AB (up to 20 hours/object)<br/>

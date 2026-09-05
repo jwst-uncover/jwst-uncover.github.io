@@ -1,0 +1,65 @@
+
+:root {
+    --fontweight-navbar-highlight: 600; 
+    --link-color: rgb(226, 88, 73); 
+    --color-navbar-highlight: rgb(226, 88, 73); 
+    --color-link-credit: #acacac; 
+  }
+
+
+#bg:after {
+    background-image: url("../../images/UNCOVER_A2744_NWcore.png"); 
+    
+}
+
+/* 
+#header .logo .image.main{
+    margin-top: 4.1rem;
+    margin-left: -11.6rem;
+}
+
+#header .logo .image.main img{
+    max-height: 8rem;
+    width: auto;
+    height:auto;
+} */
+
+
+#header .logo .image.main{
+    margin-top: 4.1rem;
+    margin-left: -14rem;
+}
+
+#header .logo .image.main img{
+    max-height: 8rem;
+    width: auto;
+    height:auto;
+}
+
+
+
+@media screen and (max-width: 736px) {
+/* 
+    #header .logo .image.main {
+        margin-top: 1rem;
+        margin-left: -8rem;
+    }
+
+    #header .logo .image.main img{
+        max-width: 24.65rem;
+        width: auto;
+        height:auto;
+    } */
+
+
+    #header .logo .image.main {
+        margin-top: 1rem;
+        margin-left: -9.5rem;
+    }
+
+    #header .logo .image.main img{
+        max-width: 24.65rem;
+        width: auto;
+        height:auto;
+    }
+}

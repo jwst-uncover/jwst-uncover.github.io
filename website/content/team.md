@@ -4,6 +4,8 @@ draft = false
 headless = true
 +++
 
+<span class="image main"><img src="images/UNCOVER_map.png" alt="" /></span>
+
 - **PI Ivo Labbe** (Swinburne)
 - **co-PI [Rachel Bezanson](https://rachelbezanson.github.io)** (Pitt)
 - Hakim Atek (IAP)
@@ -42,10 +44,10 @@ headless = true
 - **Richard Pan** (Tufts)
 - Casey Papovich (TAMU)
 - [Alan Pearl](https://alanpearl.github.io) (Pitt)
-- **[Sedona Price](https://sedonaprice.github.io)** (Pitt)
+- **[Sedona Price](https://sedonaprice.github.io)** (STScI)
 - [David Setton](https://davidjsetton.github.io) (Pitt)
 - Alice Shapley (UCLA)
-- [Wren Suess](https://wrensuess.github.io) (UCSC/Stanford)
+- [Wren Suess](https://wrensuess.github.io) (CU-Boulder)
 - Renske Smit (Liverpool John Moores)
 - Mimi Song (UMass-Amherst)
 - Mauro Stefanon (Leiden)
@@ -59,4 +61,4 @@ headless = true
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
 
-
+<i>(Survey builders are denoted in <b>bold</b>.)</i>

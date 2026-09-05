@@ -17,8 +17,11 @@ headless = true
         <h3>PIs Ivo Labbe and Rachel Bezanson</h3>
         <p><strong>U</strong>ltradeep <strong>N</strong>IRSpec and NIR<strong>C</strong>am <strong>O</strong>bser<strong>V</strong>ations before the <strong>E</strong>poch of <strong>R</strong>eionization</p>
         <p>UltraDeep NIRCam/NIRISS Imaging and <br />
-        Deep Low Resolution NIRSPEC PRISM Spectroscopy of JWST-selected targets in Abell 2744</p>
-        <p class="othersurvey">Cycle 2: <a href="megascience"><img src="../images/megascience_white.png" alt="MegaScience"/> Survey</a></p>
+        <ul class="flex-horizontal othersurvey-list">
+            <li class="othersurvey">JWST Cycle 2: <a href="megascience"><img src="../images/megascience_white.png" alt="MegaScience"/> Survey</a></li>
+            <li class="othersurvey">HST Cycle 32: <a href="mindthegaps"><img src="../images/mindthegaps_white.png" alt="MINDTHEGAPS"/> Survey</a></li>
+            <li class="othersurvey">JWST Cycle 5: <a href="uncovered"><img src="../images/UNCOVERed_white.png" alt="UNCOVERed"/> Survey</a></li>
+        </ul>
     </div>
 </div>
 <nav>
