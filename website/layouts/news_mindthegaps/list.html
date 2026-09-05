@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head_mindthegaps_slick.html" . -}}
+
+      <body class="is-preload">
+
+        <!-- Wrapper -->
+            <div id="wrapper" class="alt-news">
+
+                <!-- Header -->
+                    <header id="header" class="alt-news">
+
+                        <nav class="wide-display">
+                            <ul>
+                                <li><a href="/mindthegaps">Home</a></li>
+                                <li><a href="/mindthegaps#overview">Overview</a></li>
+                                <li><a style="width: 10rem;" href="/mindthegaps#releases">Data Releases</a></li>
+                                <li><a href="/mindthegaps#team">Team</a></li>
+                                <li class="highlight"><a href="#">News</a></li>
+                            </ul>
+                        </nav>
+
+                        <div class="image alt main narrow-display">
+                            <img src="images/mindthegaps_white.png" alt="" />
+                        </div>
+                        
+                        <div class="content">
+                            <div class="image alt main wide-display">
+                                <img src="images/mindthegaps_white.png" alt="" />  
+                            </div>
+
+                            <div class="inner alt">
+                                {{- partial  "news_carousel_uncovered.html" . -}}
+                            </div>
+                        </div>
+
+                        <nav class="narrow-display">
+                            <ul>
+                                <li><a href="/mindthegaps">Home</a></li>
+                                <li><a href="/mindthegaps#overview">Overview</a></li>
+                                <li><a style="width: 10rem;" href="/mindthegaps#releases">Data Releases</a></li>
+                                <li><a href="/mindthegaps#team">Team</a></li>
+                                <li class="highlight"><a href="#">News</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+
+
+
+            <!-- Main content -->
+            <div id="main">
+                {{- partial "news_articles_mindthegaps.html" . -}}
+                    
+            </div>
+
+                <!-- Footer -->
+                {{- partial "footer.html" . -}}
+
+
+            </div>
+
+        <!-- BG -->
+            <div id="bg"></div>
+
+        <!-- Scripts -->
+      {{- partial "scripts_bootstrap.html" . -}}
+      {{- partial "scripts_html5up.html" . -}}
+      {{- partial "scripts_slick.html" . -}}
+      {{- partial "scripts_counter.html" . -}}
+
+
+    </body>
+</html>
+
+
+
+

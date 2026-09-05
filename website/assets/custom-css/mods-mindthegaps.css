@@ -1,0 +1,62 @@
+
+:root {
+    --fontweight-navbar-highlight: 600; 
+    --link-color: rgb(71, 140, 244); 
+    --color-navbar-highlight: rgb(71, 140, 244); 
+    --color-link-credit: #acacac; 
+  }
+
+
+#bg:after {
+    background-image: url("../../images/MegaScience_A2744_crop.png"); 
+    
+}
+
+
+#header > *:before {
+    top: calc(-3rem - 1px);
+    height: calc(3rem + 1px);
+}
+
+#header > *:last-child::before {
+    top: calc(-3.5rem - 1px);
+    height: calc(3.5rem + 1px);
+}
+
+
+#header .logo .image.main{    
+    margin-top: 0rem;
+    margin-left: -13.45rem;
+    z-index: 100; 
+}
+
+#header .logo .image.main img{
+    max-height: 13rem; 
+    width: auto;
+}
+
+
+@media screen and (max-width: 736px) {
+    #header .logo .image.main {
+        margin-top: -0.75rem;
+        margin-left: -8.01rem;
+    }
+
+    #header .logo .image.main img{
+        max-width: 20rem;
+        width: auto;
+        height:auto;
+    }
+
+    
+    #header > *:before {
+        top: calc(-1.5rem - 1px);
+        height: calc(1.5rem + 1px);
+    }
+
+    #header > *:last-child::before {
+        top: calc(-2.0rem - 1px);
+        height: calc(2.0rem + 1px);
+    }
+
+}

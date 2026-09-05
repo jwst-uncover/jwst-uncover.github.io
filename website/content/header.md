@@ -19,7 +19,7 @@ headless = true
         <p>UltraDeep NIRCam/NIRISS Imaging and <br />
         <ul class="flex-horizontal othersurvey-list">
             <li class="othersurvey">JWST Cycle 2: <a href="megascience"><img src="../images/megascience_white.png" alt="MegaScience"/> Survey</a></li>
-            <li class="othersurvey">HST Cycle 32: <a href="mindthegaps"><img src="" alt="MINDTHEGAPS"/> Survey</a></li>
+            <li class="othersurvey">HST Cycle 32: <a href="mindthegaps"><img src="../images/mindthegaps_white.png" alt="MINDTHEGAPS"/> Survey</a></li>
             <li class="othersurvey">JWST Cycle 5: <a href="uncovered"><img src="../images/UNCOVERed_white.png" alt="UNCOVERed"/> Survey</a></li>
         </ul>
     </div>

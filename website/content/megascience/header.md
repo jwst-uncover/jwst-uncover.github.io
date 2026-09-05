@@ -20,7 +20,7 @@ headless = true
         Imaging of All Medium Bands in Abell 2744</p>
         <ul class="flex-horizontal othersurvey-list">
             <li class="othersurvey">JWST Cycle 1: <a href="/"><img src="../images/UNCOVER_logo_white.png" alt="UNCOVER"/> Survey</a></li>
-            <li class="othersurvey">HST Cycle 32: <a href="/mindthegaps"><img src="" alt="MINDTHEGAPS"/> Survey</a></li>
+            <li class="othersurvey">HST Cycle 32: <a href="/mindthegaps"><img src="../images/mindthegaps_white.png" alt="MINDTHEGAPS"/> Survey</a></li>
             <li class="othersurvey">JWST Cycle 5: <a href="/uncovered"><img src="../images/UNCOVERed_white.png" alt="UNCOVERed"/> Survey</a></li>
         </ul>
     </div>
