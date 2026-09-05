@@ -3,8 +3,6 @@ title = "Overview"
 draft = false
 headless = true
 +++
-<!-- <span class="image main"><img src="../images/field_layout.png" alt="" /></span> -->
-         
 
 **UNCOVERed** is a JWST Cycle 5 public survey that will obtain deep MIRI multiband imaging from 5-18&mu;m of the Frontier Field Abell 2744, building on existing imaging from Cycle 1 Treasury Program UNCOVER and Cycle 2 Program MegaScience.
 

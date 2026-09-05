@@ -62,6 +62,14 @@ a {
 
 /* Image */
 
+
+.image.main.half {
+    width: 70%;
+}
+.image.main.threequarter {
+  width: 85%;
+}
+
 .image.alt.main {
     border-radius: 4px;
     border: 0;

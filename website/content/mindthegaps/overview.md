@@ -3,8 +3,6 @@ title = "Overview"
 draft = false
 headless = true
 +++
-<!-- <span class="image main"><img src="../images/field_layout.png" alt="" /></span> -->
-         
 
 **MindTheGaps of UNCOVER** is a HST Cycle 32 public survey that will obtain ultradeep HST UV imaging (WFC3/UVIS F336W) in the Frontier Field Abell 2744, building on existing ultradeep JWST imaging from Cycle 1 Treasury Program UNCOVER and Cycle 2 Program MegaScience, as well as JWST spectroscopy, ALMA dust continuum, MUSE, and Chandra Xray observations. 
 
