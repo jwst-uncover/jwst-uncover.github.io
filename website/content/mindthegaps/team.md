@@ -5,8 +5,9 @@ headless = true
 +++
 
 - PI [Kate Whitaker](https://www.astrowhit.com) (UMass-Amherst)
+- co-PI [Rachel Bezanson](https://rachelbezanson.github.io) (Pitt)
+- co-PI [Joel Leja](https://www.personal.psu.edu/jql6565/) (Penn State)
 - Hakim Atek (IAP)
-- [Rachel Bezanson](https://rachelbezanson.github.io) (Pitt)
 - Gabe Brammer (DAWN)
 - Dan Coe (STScI)
 - [Sam Cutler](https://samecutler.github.io) (Tufts)
@@ -25,7 +26,6 @@ headless = true
 - [Gourav Khullar](https://www.gouravkhullar.com) (Pitt)
 - Mariska Kriek (Leiden)
 - Ivo Labbe (Swinburne)
-- [Joel Leja](https://www.personal.psu.edu/jql6565/) (Penn State)
 - Jiaxuan Li (Stanford)
 - [Danilo Marchesini](http://cosmos.phy.tufts.edu/~danilo/) (Tufts)
 - Michael Maseda (Wisconsin)

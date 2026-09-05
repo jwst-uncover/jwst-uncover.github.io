@@ -14,7 +14,7 @@ headless = true
 <div class="content">
     <div class="inner">
         <h1>MindTheGaps of UNCOVER</h1>
-        <h3>PI Kate Whitaker</h3>
+        <h3>PIs Kate Whitaker, Rachel Bezanson, Joel Leja</h3>
         <p>Ultradeep HST UV Imaging in Abell 2744</p>
         <ul class="flex-horizontal othersurvey-list">
             <li class="othersurvey">JWST Cycle 1: <a href="/"><img src="../images/UNCOVER_logo_white.png" alt="UNCOVER"/> Survey</a></li>
