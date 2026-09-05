@@ -4,6 +4,8 @@ draft = false
 headless = true
 +++
 
+<p style="padding-top: 0rem;"></p>
+
 - PI [Kate Whitaker](https://www.astrowhit.com) (UMass-Amherst)
 - co-PI [Rachel Bezanson](https://rachelbezanson.github.io) (Pitt)
 - co-PI [Joel Leja](https://www.personal.psu.edu/jql6565/) (Penn State)
@@ -50,3 +52,4 @@ headless = true
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
 
+<!-- <i>(Survey builders are denoted in <b>bold</b>.)</i> -->

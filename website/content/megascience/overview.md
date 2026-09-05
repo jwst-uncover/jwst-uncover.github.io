@@ -4,7 +4,8 @@ draft = false
 headless = true
 +++
 
-<!-- Medium Bands: Mega Science (MegaScience) is a JWST Cycle 2 survey that will obtain deep NIRCam medium band imaging of the Frontier Field Abell 2744.  -->
+
+<span class="image main"><img src="../images/megascience_bands.png" alt="" /></span>
 
 **Medium Bands: Mega Science** is a JWST Cycle 2 public survey that will obtain deep NIRCam multiband imaging of the Frontier Field Abell 2744, building on existing imaging from the Cycle 1 Treasury Program UNCOVER. MegaScience includes observations in all dozen of NIRCam's medium-band filters, as well as the two bluest broad-band filters F070W and F090W.
 

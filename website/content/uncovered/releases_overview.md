@@ -8,7 +8,6 @@ headless = true
 _Coming soon!_
 
 
-
 <h3 class="minor bigger" style="margin-top: 3rem;">
     <a href="/#releases"><i>Past UNCOVER/MegaScience releases</i></a>
 </h3>

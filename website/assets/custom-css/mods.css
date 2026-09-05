@@ -26,6 +26,13 @@
 }
 
 
+/* 
+#main article p:last-of-type {
+    margin-bottom: 1rem;
+    padding-bottom: 0;
+    color: lime; 
+} */
+
 a {
     border-bottom: solid 1px rgba(255, 255, 255, 1);
 }

@@ -4,6 +4,8 @@ draft = false
 headless = true
 +++
 
+<span class="image main"><img src="images/UNCOVER_map.png" alt="" /></span>
+
 - **PI Ivo Labbe** (Swinburne)
 - **co-PI [Rachel Bezanson](https://rachelbezanson.github.io)** (Pitt)
 - Hakim Atek (IAP)
@@ -59,4 +61,4 @@ headless = true
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
 
-
+<i>(Survey builders are denoted in <b>bold</b>.)</i>

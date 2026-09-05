@@ -18,9 +18,6 @@
                 <!-- Intro -->
                 <article id="overview">
                     <h2 class="major">Survey Overview</h2>
-                    <span class="image main threequarter"><img src="../images/mindthegaps_layout.png" alt="" /></span>
-         
-
             
                     {{ with .Site.GetPage "mindthegaps/overview" }}{{ .Content }}{{ end }}
                 </article>
@@ -28,26 +25,7 @@
 
                 <!-- Data releases -->
                     <article id="releases">
-
                         <h2 class="major">Data releases</h2>
-
-                        <!-- <h3 class="minor">Acknowledgement</h3>
-                        <p>Please cite the <a href="..">UNCOVER survey</a> 
-                            (GO-2561; PIs: Bezanson & Labbe) paper (<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221204026B/abstract">Bezanson et al. 2022</a>) 
-                            for any publications using UNCOVER data products, 
-                            as well the other publications noted for specific releases.
-                        </p>
-
-                        <p><b><i>For Data Release 3 and later:</i></b> 
-                        for all data products 
-                            that use Medium Band and F070W/F090W observations 
-                            from the 
-                            <a href="megascience">
-                            MegaScience survey</a> (GO-4111; PI:Suess), 
-                            please also cite the MegaScience survey paper 
-                            (<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>) 
-                            in any publications using UNCOVER+MegaScience data products. 
-                        </p> -->
 
                         {{ with .Site.GetPage "mindthegaps/releases_overview" }}{{ .Content }}{{ end }}
                     </article>
@@ -65,11 +43,10 @@
                     <article id="team" class="plain-links two-column">
                         <div class="flex-horizontal">
                             <h2 class="major">Team</h2>
+                            <h4><a href="https://sites.google.com/view/jwst-uncover/home">Internal website</a></h4>
                         </div>
-                        <p style="padding-top: 0rem;"></p>
                         {{ with .Site.GetPage "mindthegaps/team" }}{{ .Content }}{{ end }}
 
-                        <!-- <i>(Survey builders are denoted in <b>bold</b>.)</i> -->
                     </article>
 
 
@@ -80,8 +57,6 @@
                     </article>
 
 
-            
-                    
             </div>
 
 

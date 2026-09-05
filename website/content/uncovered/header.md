@@ -26,8 +26,6 @@ headless = true
 <nav>
     <ul>
         <li><a href="#overview">Overview</a></li>
-        <!-- <li><a href="#science">Science</a></li> -->
-        <!-- <li><a style="padding-left: 0.85rem; padding-right: 0.75rem;" href="#releases">Data Releases</a></li> -->
         <li><a href="#releases">Data Releases</a></li>
         <li><a href="#publications">Publications</a></li>
         <li><a href="#team">Team</a></li>
