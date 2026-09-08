@@ -32,6 +32,7 @@ headless = true
 - [Danilo Marchesini](http://cosmos.phy.tufts.edu/~danilo/) (Tufts)
 - Michael Maseda (Wisconsin)
 - Jorryt Matthee (IST-Austria)
+- Tim Miller (Northwestern)
 - Lamiya Mowla (Wellesley)
 - [Adam Muzzin](https://www.yorku.ca/professor/muzzin/) (York)
 - Themiya Nanayakkara (Swinburne)
