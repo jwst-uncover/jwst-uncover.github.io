@@ -54,7 +54,7 @@ headless = true
 - Mauro Stefanon (Leiden)
 - Ned Taylor (Swinburne)
 - **[Bingjie Wang](https://wangbingjie.github.io)** (Princeton)
-- **[John Weaver](https://astroweaver.github.io)** (UMass-Amherst)
+- **[John Weaver](https://astroweaver.github.io)** (MIT)
 - Andrea Weibel (Geneva)
 - **[Kate Whitaker](https://www.astrowhit.com)** (UMass-Amherst)
 - [Christina Williams](https://mips.as.arizona.edu/~cwilliams) (NOIRLab)

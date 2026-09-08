@@ -44,7 +44,7 @@ headless = true
 - Renske Smit (Liverpool John Moores)
 - Mauro Stefanon (Leiden)
 - **[Bingjie Wang](https://wangbingjie.github.io)** (Princeton)
-- **[John Weaver](https://astroweaver.github.io)** (UMass-Amherst)
+- **[John Weaver](https://astroweaver.github.io)** (MIT)
 - **[Kate Whitaker](https://www.astrowhit.com)** (UMass-Amherst)
 - [Christina Williams](https://mips.as.arizona.edu/~cwilliams) (NOIRLab)
 - Yunchong Zhang (Pitt)
