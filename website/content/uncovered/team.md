@@ -60,6 +60,7 @@ headless = true
 - [John Weaver](https://astroweaver.github.io) (MIT)
 - Andrea Weibel (Geneva)
 - [Christina Williams](https://mips.as.arizona.edu/~cwilliams) (UArizona)
+- Yunchong Zhang (Pitt)
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
 
