@@ -24,7 +24,7 @@ headless = true
 - Jenny Greene (Princeton)
 - Abigail Hartley (CU-Boulder)
 - [Susan Kassin](https://www.susankassin.com) (STScI)
-- [Gourav Khullar](https://www.gouravkhullar.com) (Pitt)
+- [Gourav Khullar](http://astrokhullar.squarespace.com/) (UW)
 - Mariska Kriek (Leiden)
 - **Ivo Labbe** (Swinburne)
 - **[Joel Leja](https://www.personal.psu.edu/jql6565/)** (Penn State)

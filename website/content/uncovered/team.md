@@ -31,7 +31,7 @@ headless = true
 - Massi Hamadouche (UMass-Amherst)
 - Stephanie Juneau (NOIRLab)
 - [Susan Kassin](https://www.susankassin.com) (STScI)
-- [Gourav Khullar](https://www.gouravkhullar.com) (Pitt)
+- [Gourav Khullar](http://astrokhullar.squarespace.com/) (UW)
 - Vasily Kokorev (UT-Austin)
 - Mariska Kriek (Leiden)
 - Ivo Labbe (Swinburne)

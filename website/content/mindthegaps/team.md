@@ -25,7 +25,7 @@ headless = true
 - Jenny Greene (Princeton)
 - Stephanie Juneau (NOIRLab)
 - [Susan Kassin](https://www.susankassin.com) (STScI)
-- [Gourav Khullar](https://www.gouravkhullar.com) (Pitt)
+- [Gourav Khullar](http://astrokhullar.squarespace.com/) (UW)
 - Mariska Kriek (Leiden)
 - Ivo Labbe (Swinburne)
 - Jiaxuan Li (Stanford)
