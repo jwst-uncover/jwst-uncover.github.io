@@ -16,7 +16,7 @@ headless = true
 - Pieter van Dokkum (Yale)
 - Yoshi Fudamoto (Waseda)
 - [Seiji Fujimoto](https://sf-seiji.com/) (UTAustin)
-- **Lukas Furtak** (Ben Gurion)
+- **Lukas Furtak** (UT-Austin)
 - Justus Gibson (CU-Boulder)
 - Clara Giménez Arteaga (DAWN)
 - [Andy Goulding](https://www.astro.princeton.edu/~goulding/) (Princeton)
