@@ -25,7 +25,7 @@ headless = true
 - Marla Geha (Yale)
 - Karl Glazebrook (Swinburne)
 - [Andy Goulding](https://www.astro.princeton.edu/~goulding/) (Princeton)
-- Anna de Graaff (Leiden)
+- [Anna de Graaff](https://annadeg.github.io/) (MPIA)
 - Jenny Greene (Princeton)
 - Stephanie Juneau (NOIRLab)
 - [Susan Kassin](https://www.susankassin.com) (STScI)

@@ -20,7 +20,7 @@ headless = true
 - Justus Gibson (CU-Boulder)
 - Clara Giménez Arteaga (DAWN)
 - [Andy Goulding](https://www.astro.princeton.edu/~goulding/) (Princeton)
-- Anna de Graaff (Leiden)
+- [Anna de Graaff](https://annadeg.github.io/) (MPIA)
 - Jenny Greene (Princeton)
 - Abigail Hartley (CU-Boulder)
 - [Susan Kassin](https://www.susankassin.com) (STScI)
