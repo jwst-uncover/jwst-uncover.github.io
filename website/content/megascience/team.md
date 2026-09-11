@@ -15,7 +15,7 @@ headless = true
 - Pratika Dayal (Kapteyn/Groningen)
 - Pieter van Dokkum (Yale)
 - Yoshi Fudamoto (Waseda)
-- [Seiji Fujimoto](https://sf-seiji.com/) (UTAustin)
+- [Seiji Fujimoto](https://sf-seiji.com/) (Toronto)
 - **Lukas Furtak** (UT-Austin)
 - Justus Gibson (CU-Boulder)
 - Clara Giménez Arteaga (DAWN)
