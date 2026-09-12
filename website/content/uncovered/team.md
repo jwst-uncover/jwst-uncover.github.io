@@ -16,7 +16,7 @@ headless = true
 - Iryna Chemerynska (IAP)
 - Dan Coe (STScI)
 - [Sam Cutler](https://samecutler.github.io) (Tufts)
-- Pratika Dayal (Kapteyn/Groningen)
+- Pratika Dayal (CITA/UToronto)
 - Pieter van Dokkum (Yale)
 - [Robert Feldmann](https://www.ics.uzh.ch/~feldmann) (Zurich)
 - Natascha Förster Schreiber (MPE)

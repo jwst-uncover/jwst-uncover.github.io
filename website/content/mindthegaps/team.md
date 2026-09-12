@@ -13,7 +13,7 @@ headless = true
 - Gabe Brammer (DAWN)
 - Dan Coe (STScI)
 - [Sam Cutler](https://samecutler.github.io) (Tufts)
-- Pratika Dayal (Kapteyn/Groningen)
+- Pratika Dayal (CITA/UToronto)
 - Pieter van Dokkum (Yale)
 - James Esdaile (Swinburne)
 - [Robert Feldmann](https://www.ics.uzh.ch/~feldmann) (Zurich)
