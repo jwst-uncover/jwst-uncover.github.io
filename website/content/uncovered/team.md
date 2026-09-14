@@ -13,6 +13,7 @@ headless = true
 - Stacey Alberts (STScI)
 - Sarah Bodansky (UMass-Amherst)
 - Gabe Brammer (DAWN)
+- Emilie Burnham (Penn State)
 - Iryna Chemerynska (IAP)
 - Dan Coe (STScI)
 - [Sam Cutler](https://samecutler.github.io) (Tufts)
@@ -66,4 +67,6 @@ headless = true
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
 
-<!-- <i>(Survey builders are denoted in <b>bold</b>.)</i> -->
+<!-- Survey builders are denoted in <b>bold</b>. 
+<br>(<i>Builders are team members, often junior, whose significant contributions were essential to the survey. 
+Builders have the right to be included in every UNCOVERed paper.</i>) -->

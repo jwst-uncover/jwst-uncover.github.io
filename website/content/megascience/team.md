@@ -10,6 +10,7 @@ headless = true
 - Hakim Atek (IAP)
 - **[Rachel Bezanson](https://rachelbezanson.github.io)** (Pitt)
 - **Gabe Brammer** (DAWN)
+- Emilie Burnham (Penn State)
 - Iryna Chemerynska (IAP)
 - **[Sam Cutler](https://samecutler.github.io)** (UMass-Amherst)
 - Pratika Dayal (CITA/UToronto)
@@ -52,4 +53,6 @@ headless = true
 - Yunchong Zhang (Pitt)
 - [Adi Zitrin](https://sites.physics.bgu.ac.il/zitrin/) (Ben Gurion)
 
-<i>(Survey builders are denoted in <b>bold</b>.)</i>
+Survey builders are denoted in <b>bold</b>. 
+<br>(<i>Builders are team members, often junior, whose significant contributions were essential to the survey. 
+Builders have the right to be included in every MegaScience paper.</i>)
