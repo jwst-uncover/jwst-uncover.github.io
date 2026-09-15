@@ -20,18 +20,17 @@ headless = true
     - Weaver, J. R., Cutler, S. E., Pan, R., et al.,
         2024, ApJS 270 7
 
-
 1. [The UNCOVER Survey: A First-Look HST+JWST Catalog of Galaxy Redshifts and Stellar Populations Properties Spanning 0.2≲z≲15](https://ui.adsabs.harvard.edu/abs/2024ApJS..270...12W/abstract)
     -  Wang, B., Leja, J., Labbe, I., et al., 
         2024, ApJS 270 12
 
-1. [The UNCOVER Survey: Initial Release of Ultradeep JWST/NIRSpec PRISM spectra for \~700 galaxies from z\~0.3-13 in Abell 2744](https://ui.adsabs.harvard.edu/abs/2024arXiv240803920P/abstract)
+1. [The UNCOVER Survey: Initial Release of Ultradeep JWST/NIRSpec PRISM spectra for \~700 galaxies from z\~0.3-13 in Abell 2744](https://ui.adsabs.harvard.edu/abs/2025ApJ...982...51P/abstract)
     - Price, S. H., Bezanson, R., Labbe, I., et al., 
-        2024, arXiv:2408.03920
+        2025, ApJ 982 51
         
-1. [DUALZ -- Deep UNCOVER-ALMA Legacy High-*Z* Survey](https://ui.adsabs.harvard.edu/abs/2023arXiv230907834F/abstract)
+1. [DUALZ -- Deep UNCOVER-ALMA Legacy High-*Z* Survey](hhttps://ui.adsabs.harvard.edu/abs/2025ApJS..278...45F/abstract)
     -  Fujimoto, S., Bezanson, R., Labbe, I., et al., 
-        2023, arXiv:2309.07834
+        2025, ApJS 278 45
         
         
 

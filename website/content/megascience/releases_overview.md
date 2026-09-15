@@ -5,7 +5,7 @@ headless = true
 +++
 
 <h3 class="minor">Acknowledgement</h3>
-<p>Please cite the survey paper (<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>) 
+<p>Please cite the survey paper (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..101S/abstract">Suess et al. 2024</a>) 
     for any publications using MegaScience data products, 
     as well the other publications noted for specific releases.
 </p>
@@ -14,7 +14,7 @@ headless = true
     photometry from the <a href="..">UNCOVER survey</a> 
     (GO-2561; PIs: Bezanson & Labbe), 
     please also cite the UNCOVER survey paper 
-    (<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221204026B/abstract">Bezanson et al. 2022</a>)
+    (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...974...92B/abstract">Bezanson et al. 2024</a>)
     in any publication using the UNCOVER+MegaScience data products. 
 </p>
 
@@ -29,23 +29,23 @@ DR4
 <!-- Spectra release -->
 <h4 class="minor bigger">
     <a href="../DR4.html#Spectra">First UNCOVER Spectra and Redshift catalog release</a>;<br>
-    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803920P/abstract">Price et al. 2024</a>, August 7, 2024; <i>DR4.1:</i> December 5, 2024)</div>
+    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...982...51P/abstract">Price et al. 2025</a>, August 7, 2024; <i>DR4.1:</i> December 5, 2024)</div>
 </h4>
 
 
 <!-- Lensing map release -->
 <h4 class="minor bigger">
     <a href="../DR4.html#LensingMaps">Updated v2.0 Abell 2744 Lens Model release (using MegaScience imaging)</a>
-    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803920P/abstract">Price et al. 2024</a> 
+    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803920P/abstract">Price et al. 2025</a> 
     & <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4568F/abstract">Furtak et al. 2023</a>, August 7, 2024)</div>
 </h4>
 
 <!-- Updated magnifications -->
 <h4 class="minor bigger">
     <a href="../DR4.html#UpdatedLensMag">Updated lensing magnifications</a>
-    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240803920P/abstract">Price et al. 2024</a>, 
+    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...982...51P/abstract">Price et al. 2025</a>, 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4568F/abstract">Furtak et al. 2023</a>, 
-    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>,
+    <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..101S/abstract">Suess et al. 2024</a>,
     & <a href="https://ui.adsabs.harvard.edu/abs/2024ApJS..270....7W/abstract">Weaver et al. 2024</a>, 
     August 7, 2024)</div>
 </h4>
@@ -69,7 +69,7 @@ DR3
 <!-- Mosaic release -->
 <h4 class="minor bigger">
     <a href="../DR3.html#PhotometricCatalogs">MegaScience medium band+UNCOVER photometric catalog release</a>; <a href="../DR3.html#Mosaics">MegaScience+UNCOVER mosaic release</a>
-    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240413132S/abstract">Suess et al. 2024</a>, April 22, 2024)</div>
+    <div class="smaller">(<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976..101S/abstract">Suess et al. 2024</a>, April 22, 2024)</div>
 </h4>
 
 <h3 class="minor bigger" style="margin-top: 3rem;">
